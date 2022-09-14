@@ -46,3 +46,8 @@ tr{
 .layer1{
     background-image: url("./images/horribleBackground.svg");
 }
+
+.domino{
+    width: 50%;
+    height: 50%;
+}
