@@ -1,4 +1,4 @@
-nav{
+h1{
     color: white;
 }
 
@@ -24,4 +24,24 @@ main button {
     margin: 0;
     position: relative;
     left: 40%;
+}
+
+div{
+    color: white;
+}
+
+tr{
+    color: white;
+}
+
+.spacer{
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.layer1{
+    background-image: url("./images/horribleBackground.svg");
 }
