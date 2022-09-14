@@ -60,7 +60,21 @@ tr{
     width: 50%;
     height: 50%;
 }
+.smallImage{
+    display: none;
+}
 
-.carousel{
-    height: 50px;
+@media only screen and (max-width: 720px){
+    #myCarousel{
+        display:none
+    }
+
+    .smallImage{
+        display: block;
+        max-width: 50%;
+        max-height: 50%;
+        border: none;
+        margin: auto;
+    }
+
 }
