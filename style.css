@@ -64,6 +64,11 @@ tr{
     background-image: url("./images/back2.svg");
 }
 
+.headerImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .domino{
     width: 50%;
     height: 50%;
