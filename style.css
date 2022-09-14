@@ -1,3 +1,22 @@
-nav{
+h1{
     color: white;
+}
+div{
+    color: white;
+}
+
+tr{
+    color: white;
+}
+
+.spacer{
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.layer1{
+    background-image: url("./images/horribleBackground.svg");
 }
