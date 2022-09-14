@@ -11,9 +11,7 @@ main img {
     width: 300px;
 }
 
-.main-pizza {
-    width: 100%;
-}
+
 
 .pizza-name {
     color: black;
@@ -32,6 +30,12 @@ main button {
     margin: 0;
     position: relative;
     left: 40%;
+}
+
+nav {
+    position: fixed;
+    top: 0px;
+    width: 100%;
 }
 
 div{
