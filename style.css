@@ -11,6 +11,14 @@ main img {
     width: 300px;
 }
 
+.main-pizza {
+    width: 100%;
+}
+
+.pizza-name {
+    color: black;
+}
+
 .white-text {
     color: white;
     text-align: center;
