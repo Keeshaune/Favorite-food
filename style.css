@@ -53,6 +53,7 @@ tr{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .layer1{
@@ -62,4 +63,8 @@ tr{
 .domino{
     width: 50%;
     height: 50%;
+}
+
+.carousel{
+    height: 50px;
 }
