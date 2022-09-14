@@ -60,6 +60,10 @@ tr{
     background-image: url("./images/horribleBackground.svg");
 }
 
+.layer2{
+    background-image: url("./images/back2.svg");
+}
+
 .domino{
     width: 50%;
     height: 50%;
